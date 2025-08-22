@@ -27,6 +27,6 @@
 ## . Highlighted the need for firewall precision layered security controls to protect enterprise network.
 
 ## See belowe for the full report.
-[Report]
+[Report](https://github.com/kosijustice/Soc-Capstone-project-/blob/main/Justice%20Alucho%20SOC%20Cpston%20Project%203m.pdf)
 
 
